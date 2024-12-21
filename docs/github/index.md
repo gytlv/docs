@@ -1,4 +1,4 @@
-# github npm方式部署vitepress
+# github pnpm方式部署vitepress
 
 ## 部署脚本
 deploy.yml

@@ -8,8 +8,8 @@ hero:
   tagline: It's a Beautiful
   actions:
     - theme: brand
-      text: 个人简介
-      link: /info
+      text: 博客
+      link: /docker/build
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples

@@ -21,6 +21,12 @@ export default defineConfig({
       //   ]
       // },
       {
+        text: 'java', collapsed: false,
+        items: [
+          { text: 'jdk-1.8多线程', link: '/java/index' },
+        ]
+      },
+      {
         text: 'github', collapsed: false,
         items: [
           { text: '部署vitepress', link: '/github/index' },
